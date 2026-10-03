@@ -27,3 +27,13 @@
 # 20261003
 
 感觉包括自己在内的后青春期的孩子一副不会理解几岁小孩的认知系统的【清纯可爱】【傻萌傻萌】的样子。
+
+# 截图
+
+<img width="919" height="489" alt="image" src="https://github.com/user-attachments/assets/9ddc075f-7bee-4547-8242-b1d03425ac1a" />
+
+<img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/9ed762c7-8b8c-4bb5-8d17-4e785e0e7dac" />
+
+<img width="794" height="829" alt="image" src="https://github.com/user-attachments/assets/c5c558ff-33a8-4a3b-a212-08374d062d54" />
+
+<img width="579" height="772" alt="image" src="https://github.com/user-attachments/assets/a564cd68-a6a4-4e49-b8d3-6d2fd2cf8b39" />
