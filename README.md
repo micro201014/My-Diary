@@ -28,18 +28,6 @@
 
 感觉包括自己在内的后青春期的孩子一副不会理解几岁小孩的认知系统的【清纯可爱】【傻萌傻萌】的样子。
 
-# 截图
+# 20261003
 
-训练对这些性行为进行编码并且写到自己的日记上，编码完成之后将这些截图删除。
-
-<img width="919" height="489" alt="image" src="https://github.com/user-attachments/assets/9ddc075f-7bee-4547-8242-b1d03425ac1a" />
-
-<img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/9ed762c7-8b8c-4bb5-8d17-4e785e0e7dac" />
-
-<img width="794" height="829" alt="image" src="https://github.com/user-attachments/assets/c5c558ff-33a8-4a3b-a212-08374d062d54" />
-
-<img width="579" height="772" alt="image" src="https://github.com/user-attachments/assets/a564cd68-a6a4-4e49-b8d3-6d2fd2cf8b39" />
-
-<img width="1026" height="649" alt="image" src="https://github.com/user-attachments/assets/c10f566c-66d7-46c0-9497-f19feda85545" />
-
-另外看到自己对这些画面貌似太过敏感了，自己将这些作为中性（这里的中性包含一种原始的意味）的画面看待就行。
+在社会共识默认男性的形式化思维能力比女性较强的情形下，【恋爱推理】领域的进入不管从所谓【男性特长】还是【女性->男性的行为模仿】看大概率都有被诱导的因素，诱导着人们把自己的注意力大量投入在这些对这些鸡毛蒜皮的小事的无意义的高流畅度思考，反刍和内耗上。
