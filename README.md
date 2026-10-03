@@ -41,3 +41,5 @@
 <img width="579" height="772" alt="image" src="https://github.com/user-attachments/assets/a564cd68-a6a4-4e49-b8d3-6d2fd2cf8b39" />
 
 <img width="1026" height="649" alt="image" src="https://github.com/user-attachments/assets/c10f566c-66d7-46c0-9497-f19feda85545" />
+
+另外看到自己对这些画面貌似太过敏感了，自己将这些作为中性（这里的中性包含一种原始的意味）的画面看待就行。
