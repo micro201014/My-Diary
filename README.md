@@ -30,6 +30,8 @@
 
 # 截图
 
+训练对这些性行为进行编码并且写到自己的日记上，编码完成之后将这些截图删除。
+
 <img width="919" height="489" alt="image" src="https://github.com/user-attachments/assets/9ddc075f-7bee-4547-8242-b1d03425ac1a" />
 
 <img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/9ed762c7-8b8c-4bb5-8d17-4e785e0e7dac" />
