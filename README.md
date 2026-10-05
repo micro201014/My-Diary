@@ -1,9 +1,3 @@
 # 20261005
 
-1. 自己哭出来了
-
-金赛性学报告 中译本 序言
-
-<img width="708" height="340" alt="image" src="https://github.com/user-attachments/assets/c55fb047-cd94-4f5c-a330-c9c010eb1c91" />
-
-<img width="700" height="563" alt="image" src="https://github.com/user-attachments/assets/96079e35-4ca7-4724-9388-b95ceda79671" />
+MS4g6Ieq5bex5ZOt5Ye65p2l5LqGCgrlsLHov57oirHkuozljYHlh6DlnZfpkrHkubDkuKrmuLjmiI/vvIzkvKroo4XmiJDkubDotYTmlpnvvIzniLbmr43pg73lvpfor4TlrqHkuIDkuIvjgJDkv6HnlKjnrYnnuqfjgJHvvIznroDnm7Tml6Dor53lj6/or7TvvIzku6XlkI7ljYrlj6XpgZPnkIbpg73kuI3opoHnu5nku5bku6zorrLjgII
