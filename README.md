@@ -4,10 +4,6 @@
 
 金赛性学报告 中译本 序言
 
-<img width="692" height="590" alt="image" src="https://github.com/user-attachments/assets/6c7d94be-bede-4eff-ab1c-1c9e34bca0f2" />
-
-我不理解，社会抗议是否和【知识】真的有如此紧密的依赖关系？
-
 <img width="708" height="340" alt="image" src="https://github.com/user-attachments/assets/c55fb047-cd94-4f5c-a330-c9c010eb1c91" />
 
 <img width="700" height="563" alt="image" src="https://github.com/user-attachments/assets/96079e35-4ca7-4724-9388-b95ceda79671" />
