@@ -1,3 +1,7 @@
 # 20261005
 
-MS4g6Ieq5bex5ZOt5Ye65p2l5LqGCgrlsLHov57oirHkuozljYHlh6DlnZfpkrHkubDkuKrmuLjmiI/vvIzkvKroo4XmiJDkubDotYTmlpnvvIzniLbmr43pg73lvpfor4TlrqHkuIDkuIvjgJDkv6HnlKjnrYnnuqfjgJHvvIznroDnm7Tml6Dor53lj6/or7TvvIzku6XlkI7ljYrlj6XpgZPnkIbpg73kuI3opoHnu5nku5bku6zorrLjgII
+内部的逻辑问题让外部的结构解决，存在对于透明度/边界的认知模糊
+
+此外，由于这种模糊，自己凭借直觉还分不清楚什么是内部问题什么是结构问题什么是......因此延迟判断
+
+而且有些问题从你选择解决的那一刻起就已经错了。
