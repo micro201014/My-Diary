@@ -1,4 +1,4 @@
-<img width="123" height="16" alt="image" src="https://github.com/user-attachments/assets/d991b198-94f8-47a3-a79f-74cadbe87604" />## VN
+## VN
 
 ### Fantasy
 
