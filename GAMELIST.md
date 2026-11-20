@@ -1,8 +1,16 @@
+```
+   11       0000       3333      3333
+  1 1      0    0     3    3    3    3
+    1     0      0       33        33 
+    1      0    0     3    3    3    3
+1111111     0000       3333      3333
+```
+
 ## VN
 
 ### Fantasy
 
-1. Seedsow Lullaby (Theme-Keyword: Family, Affection, Connective)
+1. <details><summary>Seedsow Lullaby (Theme-Keyword: Family, Affection, Connective)</summary><ul><li>1041：たねつみの歌</li><li>2052：播种之谣</li></ul></details>
 
 ### Sci-fi
 
@@ -64,3 +72,7 @@ Keyword: Build, Sandbox, 4X, 3X
 3. **The Beginner's Guide**
 4. The Stanley Parable (Linked: Ultra Delxue)
 5. There is No Game: Wrong Dimension
+
+### Art
+
+1. Monument Valley (1/2/3, Keyword: Geometry, Art, non-Euclidean)
