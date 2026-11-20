@@ -6,6 +6,12 @@
 1111111     0000       3333      3333
 ```
 
+## Label Explaination
+
+1. Theme-Keyword: ???
+2. GameType-Keyword: ???
+3. NO-GAME other item linked: GAME or NO-GAME item is only merchandise
+
 ## VN
 
 ### Fantasy
