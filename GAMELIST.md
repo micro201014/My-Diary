@@ -14,19 +14,19 @@
 
 ### Sci-fi
 
-1. PSYCHO-PASS Mandatory Happiness (NO-GAME other item linked)
+1. PSYCHO-PASS Mandatory Happiness (NO-GAME other item linked, Eng-text-only, Jpn-voice-only)
 
 ### Meta/Self-reference
 
-1. Doki Doki Literature Club (Linked: DDLCP)
+1. <details><summary>Doki Doki Literature Club! (Eng-text-only, Linked: Doki Doki Literature Club Plus! (Multi-language), No-Voice)</summary><ul><li>1041：ドキドキ文芸部!</li><li>2052：心跳文学部!</li></ul></details>
 
 ## Science
 
 ### IT-emu
 
-1. Turing Complete
-2. **Zachtronics** Collection
-3. Human Resource Machine
+1. <details><summary>Turing Complete</summary><ul><li>2052：图灵完备</li></ul></details>
+2. \***Zachtronics** Collection
+3. <details><summary>Human Resource Machine</summary><ul><li>2052：程序员升职记</li></ul></details>
 
 ### Psy-emu
 
@@ -61,7 +61,7 @@ Keyword: Build, Sandbox, 4X, 3X
 
 ## RPG
 
-1. NieR Automata (GameType-Keyword: Story-rich, JRPG, Meta, Sci-fi)
+1. NieR Automata (GameType-Keyword: Story-rich, JRPG, Meta, Sci-fi, NO-GAME other item linked)
 
 ## Misc Video Game
 
