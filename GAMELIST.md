@@ -29,19 +29,19 @@
 
 ## Science
 
-### IT-emu
+### Computer Sci & Programming
 
 1. <details><summary>Turing Complete</summary><ul><li>2052：图灵完备</li></ul></details>
 2. \***Zachtronics** Collection
 3. <details><summary>Human Resource Machine</summary><ul><li>2052：程序员升职记</li></ul></details>
 
-### Psy-emu
+### Psysics
 
 #### Optics
 
 1. Optica
 
-#### Biology-emu
+### Biology
 
 1. Mendel Simulator
 
@@ -50,13 +50,13 @@
 ### LEGO Collection
 
 1. LEGO Builders Journey
-2. LEGO Skylines
+2. LEGO Skylines (SOON)
 
 ## SLA/Cognition
 
 1. Influent
 
-## Strategy Emu
+## Strategy
 
 Keyword: Build, Sandbox, 4X, 3X
 
@@ -74,11 +74,11 @@ Keyword: Build, Sandbox, 4X, 3X
 
 ### Meta/Self-reference
 
-1. OneShot (Linked: World Machine Edition)
+1. OneShot (Linked: OneShot World Machine Edition)
 2. Superliminal
 3. **The Beginner's Guide**
-4. The Stanley Parable (Linked: Ultra Delxue)
-5. There is No Game: Wrong Dimension
+4. The Stanley Parable (Linked: The Stanley Parable Ultra Delxue)
+5. There is No Game: Wrong Dimension (Linked: There is No Game)
 
 ### Art
 
